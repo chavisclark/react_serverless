@@ -1,11 +1,11 @@
 # Travel agent landing page
 ![alt text](https://d3brgjqtir64ox.cloudfront.net/travel_landing.png "Travel page")
 
-### Description?
+### Description
 This is a small project that I am working on for my mother (awww) and I thought it would be cool create it with React. 
 
 ## More about the project
-This project is uses BrowserSync for better visual testing across all browsers. It's a very simple project but I think it's nice to see React in different "real-world" use-cases. 
+This project uses BrowserSync for better visual testing across all browsers. It's a very simple project but I think it's nice to see React in different "real-world" use-cases. 
 
 ### React ecosystem technologies
 
@@ -30,8 +30,8 @@ Dynamics is a JavaScript library that creates physics-based animations. I found 
 ## Good stuff to know
 * Robotbook is something I created using Chance.js to generate random data for my user fields, and using [Robohash](https://robohash.org/) to generate my robot avatars 
 
-* The cool revolving background images is provided by [UNSPLASH](https://unsplash.com)!
-> The images crossfade the same way in all browsers 🤓
+* The cool background images are provided by [UNSPLASH](https://unsplash.com)!
+> After some crafty thinking... I got the images to crossfade the same way in all browsers 🤓
 
 ## Usage
 
