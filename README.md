@@ -27,7 +27,7 @@ This handles all of my URL routing. It has a simple API but it is very powerful.
 ###### [Dynamics](https://github.com/michaelvillar/dynamics.js/)
 Dynamics is a JavaScript library that creates physics-based animations. I found this especially useful when developing the custom popover modal. Since it's a generic animations library, I'm able to use it in any component to animate any type of element (CSS or JavaScript)... Sweet!
 
-* The cool background images are provided by [UNSPLASH](https://unsplash.com)!
+#### The cool background images are provided by [UNSPLASH](https://unsplash.com)!
 > After some crafty thinking... I got the images to crossfade the same way in all browsers 🤓
 
 ## Usage
