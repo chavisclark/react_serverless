@@ -1,5 +1,5 @@
 {
-  "name": "travel_site",
+  "name": "travel-site",
   "version": "1.0.0",
   "description": "A static site with URL routing and no server",
   "main": "index.js",
@@ -18,9 +18,9 @@
   "author": "Chavis Clark",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chavisclark/travel_site/issues"
+    "url": "https://github.com/chavisclark/travel-site/issues"
   },
-  "homepage": "https://github.com/chavisclark/travel_site#readme",
+  "homepage": "https://github.com/chavisclark/travel-site#readme",
   "devDependencies": {
     "babel-core": "^6.7.4",
     "babel-loader": "^6.2.4",

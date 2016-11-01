@@ -10,6 +10,7 @@ This project uses BrowserSync for better visual testing across all browsers. It'
 ### React ecosystem technologies
 
 ###### [React, react-dom](https://github.com/facebook/react)
+React is a JavaScript library for creating user interfaces and its the backbone of my app (hehe). I used this environment (^15.3) because it's super cool.
 
 ###### [Webpack, webpack-dev-server](https://github.com/webpack/webpack)
 Webpack is a module bundler that generates static represenations of my application.
