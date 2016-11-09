@@ -27289,7 +27289,8 @@
 	  _reactRouter.Route,
 	  { component: _Main2.default },
 	  _react2.default.createElement(_reactRouter.Route, { path: '/', component: _Home2.default }),
-	  _react2.default.createElement(_reactRouter.Route, { path: '/about', component: _About2.default })
+	  _react2.default.createElement(_reactRouter.Route, { path: '/about', component: _About2.default }),
+	  _react2.default.createElement(_reactRouter.Route, { path: '/travel-site/', component: _Home2.default })
 	);
 
 /***/ },

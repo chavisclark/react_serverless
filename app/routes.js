@@ -8,5 +8,6 @@ module.exports = (
   <Route component={Main}>
     <Route path='/' component={Home}/>
     <Route path='/about' component={About}/>
+    <Route path='/travel-site/' component={Home}/>
   </Route>
 )
