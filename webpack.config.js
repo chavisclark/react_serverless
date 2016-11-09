@@ -14,7 +14,7 @@ module.exports = {
         'main': './app',
     },
     output: {
-        path: 'build',
+        path: __dirname,
         filename: 'bundle.js',
         publicPath: '/'
     },
