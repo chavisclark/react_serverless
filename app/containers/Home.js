@@ -22,63 +22,6 @@ import isEmpty from 'lodash/isEmpty'
 import uuid from 'uuid'
 import 'react-dates/css/styles.scss'
 
-          // <form>
-          //   <ul className={cx("flex-outer")}>
-          //     <li>
-          //       <label htmlFor="first-name">First Name</label>
-          //       <input type="text" id="first-name" placeholder="Enter your first name here"/>
-          //     </li>
-          //     <li>
-          //       <label htmlFor="last-name">Last Name</label>
-          //       <input type="text" id="last-name" placeholder="Enter your last name here"/>
-          //     </li>
-          //     <li>
-          //       <label htmlFor="email">Email</label>
-          //       <input type="email" id="email" placeholder="Enter your email here"/>
-          //     </li>
-          //     <li>
-          //       <label htmlFor="phone">Phone</label>
-          //       <input type="tel" id="phone" placeholder="Enter your phone here"/>
-          //     </li>
-          //     <li>
-          //       <label htmlFor="message">Message</label>
-          //       <textarea rows="6" id="message" placeholder="Enter your message here"></textarea>
-          //     </li>
-          //     <li>
-          //       <p>Age</p>
-          //       <ul className={cx("flex-inner")}>
-          //         <li>
-          //           <input type="checkbox" id="twenty-to-twentynine"/>
-          //           <label htmlFor="twenty-to-twentynine">20-29</label>
-          //         </li>
-          //         <li>
-          //           <input type="checkbox" id="thirty-to-thirtynine"/>
-          //           <label htmlFor="thirty-to-thirtynine">30-39</label>
-          //         </li>
-          //         <li>
-          //           <input type="checkbox" id="fourty-to-fourtynine"/>
-          //           <label htmlFor="fourty-to-fourtynine">40-49</label>
-          //         </li>
-          //         <li>
-          //           <input type="checkbox" id="fifty-to-fiftynine"/>
-          //           <label htmlFor="fifty-to-fiftynine">50-59</label>
-          //         </li>
-          //         <li>
-          //           <input type="checkbox" id="sixty-to-sixtynine"/>
-          //           <label htmlFor="sixty-to-sixtynine">60-69</label>
-          //         </li>
-          //         <li>
-          //           <input type="checkbox" id="other"/>
-          //           <label htmlFor="other">Other</label>
-          //         </li>
-          //       </ul>
-          //     </li>
-          //     <li>
-          //       <button type="submit">Submit</button>
-          //     </li>
-          //   </ul>
-          // </form>
-
 export default class Home extends React.Component {
   constructor(props) {
     super(props);
