@@ -417,6 +417,11 @@ input, textarea {
     align-items: center;
     text-align: center;
   }
+
+  .mobile-spacer {
+    height: 150px;
+  }
+
   .column span {
     width: 100%;
   }

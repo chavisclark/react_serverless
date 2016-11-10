@@ -10,7 +10,7 @@ const cx = classNames.bind(styles);
         <div className={cx("column")}>
           <div className={cx("row")}>
             <div className={cx("column")}>
-              <div>Crissa Clark</div>
+              <div>Crissa McDole</div>
               <div>Xstream Certified Travel Consultant (CTC)</div>
             </div>
             <div className={cx("column")}>

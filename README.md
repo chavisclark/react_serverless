@@ -2,7 +2,7 @@
 ![alt text](https://d3brgjqtir64ox.cloudfront.net/travel_landing.png "Travel page")
 
 ### Description
-This is a small project that I am working on for my mother (awww) and I thought it would be cool create it with React. 
+This is a small project that I am working on for Treasured Travelers and I thought it would be cool re-create it with React. 
 
 ### More about the project
 This project uses BrowserSync for better visual testing across all browsers. It's a very simple project but I think it's nice to see React in different "real-world" use-cases. 

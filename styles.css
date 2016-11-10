@@ -547,6 +547,11 @@ input, textarea {
     align-items: center;
     text-align: center;
   }
+
+  .main__mobile-spacer___cG0M0 {
+    height: 150px;
+  }
+
   .main__column___1vfjt span {
     width: 100%;
   }

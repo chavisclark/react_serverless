@@ -8,6 +8,7 @@ const cx = classNames.bind(styles);
     const {onRequest} = props;
     return (
       <div className={cx('container')}>
+        <div className={cx('mobile-spacer')} />
         <div className={cx('box')}>
           <h2>Your journey continues</h2>
           <p> I care about your travel experience. Book your next journey with me and let me worry about the details...</p>
